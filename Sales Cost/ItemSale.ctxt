@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ItemSale()
+comment0.text=\r\n\ This\ is\ no\ args\ constructor\ that\ sets\ up\ init\ values\r\n
+comment1.params=inCost
+comment1.target=void\ setCost(double)
+comment1.text=\r\n\ This\ method\ allows\ user\ to\ set\ values\ for\ cost\r\n\ @param\ double\ -\ value\ to\ change\r\n
+comment2.params=inNumber
+comment2.target=void\ setNumberOfItems(int)
+comment2.text=\ \r\n\ This\ method\ allows\ user\ to\ set\ value\ for\ \#\ of\ items\r\n\ @param\ int\ -\ value\ to\ change\r\n
+comment3.params=inDiscountRate
+comment3.target=void\ setDiscount(double)
+comment3.text=\r\n\ This\ method\ lets\ user\ set\ discount\r\n\ @param\ -\ double,\ percent\ discount\r\n
+comment4.params=
+comment4.target=double\ getFinalCost()
+comment4.text=\r\n\ \ \ \ \ this\ method\ returns\ private\ of\ sales\ based\ on\ num\ of\ item\ and\ price\ per\r\n\ \ \ \ \ @return\ double\ representing\ total\r\n
+numComments=5

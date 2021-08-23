@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Human()
+comment1.params=last\ first\ addr\ ID\ visits\ bal\ petArr
+comment1.target=Human(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ double,\ Pet[])
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=other
+comment3.target=boolean\ equals(Human)
+numComments=4

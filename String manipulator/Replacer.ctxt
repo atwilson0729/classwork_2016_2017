@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=Replacer(java.lang.String)
+comment1.params=c\ s
+comment1.target=java.lang.String\ replace(char,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getOriginal()
+comment3.params=
+comment3.target=java.lang.String\ getConverted()
+comment4.params=s
+comment4.target=void\ setString(java.lang.String)
+numComments=5

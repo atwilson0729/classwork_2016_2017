@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=planet\ weight
+comment0.target=double\ weight(int,\ int)
+comment1.params=planet
+comment1.target=java.lang.String\ planetName(int)
+numComments=2

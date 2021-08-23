@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Pile()
+comment0.text=\r\n\ This\ is\ the\ default\ constructor\ for\ the\ pile,\ initializes\ the\ isFaceDown\ array,\ and\ created\ a\ new\ card\ array\r\n\ \r\n
+comment1.params=card
+comment1.target=void\ addCardFaceDown(Card)
+comment1.text=\r\n\ This\ adds\ a\ card\ face\ down\ into\ the\ pile\r\n\ @param\ Card\ card\ -\ the\ card\ being\ sent\ in\ to\ be\ added\r\n\ \r\n
+comment2.params=card
+comment2.target=void\ addCardFaceUp(Card)
+comment2.text=\r\n\ This\ adds\ a\ card\ face\ up\ into\ the\ pile\r\n\ @param\ Card\ card\ -\ the\ card\ being\ sent\ in\ to\ be\ added\r\n\ \r\n
+comment3.params=
+comment3.target=Card\ removeCard()
+comment3.text=\r\n\ This\ removed\ the\ top\ card\ from\ the\ file\r\n\ @return\ Card\ -\ the\ card\ that\ was\ removed\ from\ the\ pile\r\n
+comment4.params=
+comment4.target=int\ getNumberOfFaceDown()
+comment4.text=\r\n\ This\ calculates\ the\ number\ of\ face\ down\ cards\ in\ the\ pile\r\n\ @return\ int\ -\ the\ number\ of\ face\ down\ cards\r\n
+comment5.params=
+comment5.target=int\ getNumberOfFaceUp()
+comment5.text=\r\n\ This\ calculates\ the\ number\ of\ face\ up\ cards\ in\ the\ pile\r\n\ @return\ int\ -\ the\ number\ of\ face\ up\ cards\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ This\ creates\ a\ printable\ string\ version\ of\ the\ class\r\n\ @return\ String\ -\ the\ formatted\ string\ version\ of\ the\ class\r\n
+numComments=7

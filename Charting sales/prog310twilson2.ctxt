@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=day\ sales
+comment0.target=void\ randomVal(int,\ int)
+comment0.text=\r\n\ Generates\ the\ sales\ figures\ based\ on\ specific\ regulations\r\n\ Post\:\ prints\ the\ sales\ and\ then\ runs\ the\ histogram\ method\r\n
+comment1.params=sales
+comment1.target=void\ histogram(int)
+comment1.text=\r\n\ Takes\ the\ sales\ figure\ and\ graphs\ it\r\n\ Post\:\ prints\ an\ asterisk\ for\ every\ $1000\ in\ sales\r\n
+numComments=2

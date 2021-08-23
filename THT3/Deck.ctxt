@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Deck()
+comment0.text=\r\n\ This\ is\ the\ constructor,\ makes\ the\ deck\ and\ initializes\ the\ cards\ in\ it\r\n\ \r\n
+comment1.params=
+comment1.target=Card\ dealCard()
+comment1.text=\r\n\ this\ deals\ the\ card\ to\ a\ new\ card\ \r\n\ @return\ Card\ -\ the\ dealt\ card\r\n\ \r\n
+comment2.params=
+comment2.target=Card\ getTopCard()
+comment2.text=\r\n\ this\ gets\ the\ top\ card\ off\ the\ deck\r\n\ @return\ Card\ -\ the\ top\ card\r\n\ \r\n
+comment3.params=i
+comment3.target=Card\ getCardAt(int)
+comment3.text=\r\n\ this\ gets\ the\ specified\ card\ off\ the\ deck\r\n\ @return\ Card\ -\ the\ specified\ card\r\n\ @param\ int\ i\ -\ the\ index\ of\ the\ card\r\n\ \r\n
+comment4.params=
+comment4.target=int\ cardsLeft()
+comment4.text=\r\n\ this\ returns\ the\ number\ of\ cards\ left\r\n\ @return\ int\ -\ the\ number\ of\ cards\ left\r\n\ \r\n
+comment5.params=
+comment5.target=void\ shuffle()
+comment5.text=\r\n\ this\ shuffles\ the\ deck\ by\ swapping\ two\ random\ cards\r\n\ \r\n\ \r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ this\ creates\ a\ formatted\ string\ of\ the\ class\r\n\ @return\ String\ -\ the\ formatted\ string\r\n\ \r\n
+numComments=7

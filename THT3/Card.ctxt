@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Card()
+comment0.text=\r\n\ This\ is\ the\ default\ constructor\ for\ the\ Card\ class,\ initializes\ everything\ to\ nothing\r\n
+comment1.params=val\ suitStr\ faceStr
+comment1.target=Card(int,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ This\ is\ the\ overloaded\ constructor\ that\ takes\ in\ the\ 3\ characteristics\ of\ the\ card\ and\ assigns\ their\ proper\ values\r\n\ @param\ int\ val\ -\ the\ value\ of\ the\ card\r\n\ @param\ String\ suitStr\ -\ the\ string\ representation\ of\ the\ suit\r\n\ @param\ String\ faceStr\ -\ the\ string\ representation\ of\ the\ face\r\n
+comment2.params=
+comment2.target=int\ getValue()
+comment2.text=\r\n\ This\ getter\ returns\ the\ value\ of\ the\ card\r\n\ @return\ int\ -\ the\ value\ of\ the\ card\r\n
+comment3.params=
+comment3.target=java.lang.String\ getSuit()
+comment3.text=\r\n\ This\ getter\ returns\ the\ suit\ of\ the\ card\r\n\ @return\ String\ -\ the\ suit\ of\ the\ card\r\n
+comment4.params=
+comment4.target=java.lang.String\ getFace()
+comment4.text=\r\n\ This\ getter\ returns\ the\ face\ of\ the\ card\r\n\ @return\ String\ -\ the\ face\ of\ the\ card\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ This\ creates\ the\ formatted\ string\ representation\ of\ the\ class\r\n\ @return\ String\ -\ the\ string\ of\ the\ class\r\n
+comment6.params=other
+comment6.target=int\ compareTo(Card)
+comment6.text=\r\n\ This\ compares\ one\ card\ to\ another\ based\ on\ value\r\n\ @param\ Card\ other\ -\ the\ card\ to\ be\ compared\ to\ this\ instance\r\n\ @return\ int\ -\ the\ compareTo\ value\ of\ these\ two\ cards\r\n
+comment7.params=other
+comment7.target=boolean\ equals(Card)
+comment7.text=\r\n\ This\ checks\ equality\ of\ two\ cards\ based\ on\ suit\ and\ face\r\n\ @param\ Card\ other\ -\ the\ card\ to\ be\ checked\ with\ equality\ to\ this\ instance\r\n\ @return\ boolean\ -\ the\ equality\r\n
+numComments=8

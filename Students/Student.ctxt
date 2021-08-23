@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Student()
+comment1.params=inLast\ inFirst\ inID\ inGPA\ inCredits
+comment1.target=Student(java.lang.String,\ java.lang.String,\ int,\ double,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=s
+comment3.target=boolean\ equals(Student)
+comment4.params=s
+comment4.target=int\ compareTo(Student)
+comment5.params=inG
+comment5.target=void\ setGPA(double)
+comment6.params=inCredits
+comment6.target=void\ setCredits(double)
+numComments=7

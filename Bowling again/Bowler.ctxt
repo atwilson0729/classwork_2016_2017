@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Bowler()
+comment0.text=\ No\ args\ constructor\r\n\ Create\ a\ Bolwler\ object\ and\ sets\ the\ name\ field\ to\ the\ \r\n\ string\ "unknown"\ and\r\n\ the\ high\ score\ of\ this\ object\ to\ 0.\r\n
+comment1.params=pName\ pHighScore
+comment1.target=Bowler(java.lang.String,\ double)
+comment1.text=\ Constructs\ a\ Bowler\ object\ using\ the\ values\r\n\ of\ the\ arguments.\ \r\n\ @param\ String\ a\ name\ for\ the\ Bowler\r\n\ @param\ a\ high\ score\ for\ the\ Bowler.\ If\ the\r\n\ argument\ sent\ in\ is\ less\ than\ zero,\ the\ field\ is\ set\ to\ zero.\r\n
+comment2.params=pName
+comment2.target=void\ setName(java.lang.String)
+comment2.text=\r\n\ Sets\ the\ Bowler's\ name\ field\ to\ the\ String\ argument.\r\n\ @param\ a\ new\ value\ for\ the\ Bolwer's\ name\r\n
+comment3.params=pHighScore
+comment3.target=void\ setHighScore(double)
+comment3.text=\r\n\ Set's\ the\ Bolwer\ object's\ high\ score\ field\ to\ the\r\n\ argument.\r\n\ @param\ the\ high\ score\ field\ is\ set\ to\ the\ argument.\ \r\n\ If\ the\ argument's\ value\ is\ less\ than\ zero,\ the\ value\ of\ the\ field\r\n\ remains\ unchanged.\r\n\ \r\n
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment4.text=\ \r\n\ This\ method\ returns\ the\ the\ name\ of\ the\ Bowler\r\n\ @return\ a\ reference\ to\ a\ String\ object\ that\ holds\ the\ Bowler's\ name.\r\n
+comment5.params=
+comment5.target=double\ getHighScore()
+comment5.text=\ \r\n\ This\ method\ returns\ the\ value\ of\ the\ Bowler's\ high\ score.\r\n\ @return\ returns\ the\ value\ of\ the\ highSocre\ field.\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Returns\ the\ textual\ representation\ of\ a\ Bowler\ object.\r\n\ @return\ a\ reference\ to\ a\ String\ that\ concatinates\ the\ Bolwer's\r\n\ name\ and\ high\ socre\ field\ values.\r\n
+numComments=7

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Invoice()
+comment1.params=id\ descript\ amt\ paid\ c
+comment1.target=Invoice(java.lang.String,\ java.lang.String,\ double,\ boolean,\ Customer)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=in
+comment3.target=int\ compareTo(Invoice)
+comment4.params=paid
+comment4.target=void\ setIsPaid(boolean)
+comment5.params=a
+comment5.target=void\ setAmount(double)
+comment6.params=in
+comment6.target=boolean\ equals(Invoice)
+numComments=7

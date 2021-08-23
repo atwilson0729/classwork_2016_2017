@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=radius
+comment0.target=double\ areaCircle(double)
+comment1.params=length\ width
+comment1.target=double\ areaRect(double,\ double)
+comment2.params=base\ height
+comment2.target=double\ areaTri(double,\ double)
+comment3.params=
+comment3.target=void\ printError()
+numComments=4
